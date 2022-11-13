@@ -1,0 +1,18 @@
+{
+    "next-auth.csrf-token": {
+        "name": "next-auth.csrf-token",
+        "value": "61d2d3f30abc7da5824bc43aadb16c2a937f7c7e70540b86e9779df37f540a7d|c11cefd9583d77a8c3539d5b6719ea823d92de5cf9e7a5fc0f435ba998e772cc"
+    },
+    "next-auth.callback-url": {
+        "name": "next-auth.callback-url",
+        "value": "http://localhost:3000/"
+    },
+    "next-auth.session-token": {
+        "name": "next-auth.session-token",
+        "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..CROZhbacaF5y97Ot.u94wALHD2rm6HXoYtdG9v80uH9lpw_2yhzRExSH6KZ7y8ke4ZEZ8cBKDSKIWsrUqNVPCP2nudCXaS9WgtlzO5ZlabLVNQ-P7WCfcWx-fukKR4cklwduG02o-vXaY4LLMWlFpS1m3cwgp0rvCjTh1l8qg9bQyDRdbuio1jNNQFRLYmzQRRrA8cLX5qyymDcF4bVzNE72KviSjlUn6wxi_HS62K848Qv9KeqDC1TvEoGGyt6i2NGKYEl14md22a067rSuw62P-P7JOimEOf8-f9w80DWMjv89HOxNN-K0M.LgZ4xPW-Kg0rF28fpILPKA"
+    },
+    "OurSideJWT": {
+        "name": "OurSideJWT",
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NzA4OTc4NjQsInVzZXJuYW1lIjoiQWRtaW4iLCJpYXQiOjE2NjgzMDU4NjR9.OLh4QPIRrd3EkBP5fyOBC1Qu8uCE89Pv3DPXtvEHpKQ"
+    }
+}
